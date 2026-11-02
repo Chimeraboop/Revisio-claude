@@ -1,0 +1,7 @@
+{
+  "nom": "Claude",
+  "description": "Notes rédigées par Claude Code, avec ton abonnement Claude.",
+  "version": "0.1.0",
+  "taches": ["photos"],
+  "commande": ["node", "extension.mjs"]
+}
